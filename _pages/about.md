@@ -21,8 +21,6 @@ Hey! I'm Alexander (you can call me Alex or Sasha). I am currently pursuing my M
 
 My current research interests are primarily focused on distributed optimization and AI safety.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
 ---
 
 ## Publications
@@ -52,6 +50,14 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ## Presenting Experience
 
+- **UAI 2026** (Poster: Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions, August 2026)
+- **ICLR 2026** (Poster: Error Feedback For Muon And Friends, April 2026)
+- **Workshop on Distributed Training in the Era of Large Models, KAUST** (Poster: Error Feedback For Muon And Friends, November 2025)
+- **Spring School on Machine Learning, HSE** (Poster: Matrix Exponential for Parametrizing Orthogonal Convolutions, May 2024)
+
 ---
 
 ## Teaching Experience
+
+- **Teacher Assistant (Deep Learning in Audio)** (HSE, Faculty of Computer Science, 2025)
+- **Teacher Assistant (Matrix Computations)** (HSE, Faculty of Computer Science, 2024)

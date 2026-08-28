@@ -9,7 +9,7 @@ profile:
   image: ava.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>KAUST, Saudi Arabia 🌴</p>
+    <p>KAUST, Saudi Arabia 🌴🌴🌴</p>
 
 news: false
 latest_posts: false
@@ -48,7 +48,7 @@ My current research interests are primarily focused on distributed optimization 
 
 ---
 
-## Presenting Experience
+## Presentations
 
 - **UAI 2026** (Poster: Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions, August 2026)
 - **ICLR 2026** (Poster: Error Feedback For Muon And Friends, April 2026)

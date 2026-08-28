@@ -31,6 +31,14 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ## Work Experience
 
+- **Visiting Student Research Program** (KAUST, Optimization in Machine Learning, May 2025 – August 2025)
+  - The main result: ["Error Feedback For Muon And Friends"](https://proceedings.iclr.cc/paper_files/paper/2026/file/983876577ec81db17ecfae1521df9208-Paper-Conference.pdf) paper.
+- **Intern ML Engineer** (Yandex, Neuro Basic Quality Model Development Group, June 2024 – October 2024)
+  - Developed Multi-rephrase pipeline components for the Neuro LLM-search service, achieving significant growth in usefulness metrics for complex and quiz-style queries.
+  - Trained, distilled, and fine-tuned text classification and generation models using Reinforcement Learning techniques.
+- **Intern ML Engineer** (Yandex, Alice (smart assistant), Product development and quality improvement group, March 2023 – August 2023)
+  - Transitioning from Boosting to LLMs for scenario classification, significantly enhancing classification quality for long-context queries.
+
 ---
 
 ## Education

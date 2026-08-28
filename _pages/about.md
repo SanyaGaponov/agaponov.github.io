@@ -25,6 +25,14 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ---
 
+## Publications
+
+---
+
+## Work Experience
+
+---
+
 ## Education
 
 - **M.S. in Computer Science** (KAUST, 2025-2027)
@@ -34,7 +42,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ---
 
-## Publications
+## Presenting Experience
 
 ---
 

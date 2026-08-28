@@ -40,9 +40,3 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 ---
 
 ## Publications
-
-<!-- This div applies al-folio's native CSS styling to your paper list -->
-<div class="publications">
-  <!-- This Liquid tag automatically reads your _bibliography/papers.bib file and generates the list -->
-  {% bibliography %}
-</div>

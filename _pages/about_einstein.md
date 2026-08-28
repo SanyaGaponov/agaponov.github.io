@@ -13,10 +13,10 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: false  # set to true to include a list of news items
-latest_posts: false  # set to true to include a list of the newest posts
+news: false # set to true to include a list of news items
+latest_posts: false # set to true to include a list of the newest posts
 selected_papers: false # set to true to include a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
@@ -29,13 +29,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ## Education
 
-* **Ph.D. in Computer Science** (Expected 2027) 
-  * King Abdullah University of Science and Technology (KAUST)
-  * *Focus:* Machine Learning Optimization, AI Safety
-* **M.S. in Computer Science** (2025)
-  * King Abdullah University of Science and Technology (KAUST)
-* **B.S. in Mathematics and Computer Science**
-  * Higher School of Economics (HSE)
+- **Ph.D. in Computer Science** (Expected 2027)
+  - King Abdullah University of Science and Technology (KAUST)
+  - _Focus:_ Machine Learning Optimization, AI Safety
+- **M.S. in Computer Science** (2025)
+  - King Abdullah University of Science and Technology (KAUST)
+- **B.S. in Mathematics and Computer Science**
+  - Higher School of Economics (HSE)
 
 ---
 

@@ -29,14 +29,17 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ## Education
 
-- **Ph.D. in Computer Science** (Expected 2027)
+- **M.S. in Computer Science** (2025-2027)
   - King Abdullah University of Science and Technology (KAUST)
-  - _Focus:_ Machine Learning Optimization, AI Safety
-- **M.S. in Computer Science** (2025)
-  - King Abdullah University of Science and Technology (KAUST)
-- **B.S. in Mathematics and Computer Science**
+  - GPA 3.89/4
+- **B.S. in Applied Mathematics and Information Science** (2021-2025)
   - Higher School of Economics (HSE)
+  - Graduated with Honors, GPA 8.81/10
 
 ---
 
 ## Publications
+
+---
+
+## Teaching Experience

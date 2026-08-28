@@ -27,19 +27,13 @@ My current research interests are primarily focused on distributed optimization 
 
 ## Publications
 
-- [**Error Feedback For Muon And Friends**](https://proceedings.iclr.cc/paper_files/paper/2026/file/983876577ec81db17ecfae1521df9208-Paper-Conference.pdf)
-  * Kaja Gruntkowska, **Alexander Gaponov**, Zhirayr Tovmasyan, [Peter Richtárik](https://richtarik.org/)
-  * [**ICLR 2026**](https://proceedings.iclr.cc/paper_files/paper/2026/file/983876577ec81db17ecfae1521df9208-Paper-Conference.pdf)
+- **[Error Feedback For Muon And Friends](https://proceedings.iclr.cc/paper_files/paper/2026/file/983876577ec81db17ecfae1521df9208-Paper-Conference.pdf)**. Kaja Gruntkowska, **Alexander Gaponov**, Zhirayr Tovmasyan, [Peter Richtárik](https://richtarik.org/). *ICLR 2026*.
 
-- [**Pay Attention to Attention Distribution: A New Local Lipschitz Bound for Transformers**](https://arxiv.org/abs/2507.07814)
-  * Nikolay Yudin, Sergei Kudriashov, **Alexander Gaponov**, Maxim Rakhuba
-  * [**ECCV 2026**](https://arxiv.org/abs/2507.07814)
+- **[Pay Attention to Attention Distribution: A New Local Lipschitz Bound for Transformers](https://arxiv.org/abs/2507.07814)**. Nikolay Yudin, Sergei Kudriashov, **Alexander Gaponov**, Maxim Rakhuba. *ECCV 2026*.
 
-- [**Byzantine-Robust and Private Federated Optimization under Weaker Assumptions**](https://proceedings.mlr.press/v337/islamov26a.html)
-  * Rustem Islamov et al.
-  * [**UAI 2026**](https://proceedings.mlr.press/v337/islamov26a.html)
+- **[Byzantine-Robust and Private Federated Optimization under Weaker Assumptions](https://proceedings.mlr.press/v337/islamov26a.html)**. Rustem Islamov et al. *UAI 2026*.
 
-- [**Communication-Efficient Gluon in Federated Learning**](https://arxiv.org/abs/2604.10689), Xun Qian, **Alexander Gaponov**, Grigory Malinovsky, [Peter Richtárik](https://richtarik.org/), [2026](https://arxiv.org/abs/2604.10689)
+- **[Communication-Efficient Gluon in Federated Learning](https://arxiv.org/abs/2604.10689)**. Xun Qian, **Alexander Gaponov**, Grigory Malinovsky, [Peter Richtárik](https://richtarik.org/). *2026*.
 
 ---
 
